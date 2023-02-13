@@ -46,17 +46,17 @@
 
                 <label for="nome">
                     <h4>Nome</h4>
-                    <input type="text" name="nome" id="nome">
+                    <input type="text" name="nome" id="nome" placeholder="Insira seu nome">
                 </label> <br><br>
 
                 <label for="cidade">
                     <h4>Cidade</h4>
-                    <input type="text" name="cidade" id="cidade">
+                    <input type="text" name="cidade" id="cidade" placeholder="Insira sua cidade atual">
                 </label><br><br>
 
                 <label for="telefone">
                     <h4>Telefone</h4>
-                    <input type="number" name="telefone" id="telefone">
+                    <input type="number" name="telefone" id="telefone" placeholder="Insira seu telefone">
                 </label><br><br>
 
                 <input type="submit" value="Enviar">
